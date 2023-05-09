@@ -1,0 +1,10 @@
+{
+ "id": 7594,
+ "name": "poc-clea.env",
+ "checksum": "6547e1adc5fe5425fce1ab673efc633780748fcb08b3bc5109ed84340b0931c8",
+ "checksum_algorithm": "sha256",
+ "created_at": "2022-12-28T12:47:02.055Z",
+ "expires_at": null,
+ "metadata": null,
+ "file_extension": "env"
+}
